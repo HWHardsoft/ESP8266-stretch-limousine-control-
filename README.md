@@ -1,4 +1,6 @@
 # ESP8266-stretch-limousine-control-
+![My image](https://image.jimcdn.com/app/cms/image/transf/dimension=1920x400:format=jpg/path/sae5d500d7e085f42/image/iffef644aba830013/version/1502991146/image.jpg)
+
 ESP8266 based control of passenger cabin of a stretch limousine with Nextion touchscreens
 
 Sometimes ago a customer asked us for help with the interior control of his Lincoln stretch limousine. The old solution was not so nice, there was no comfortable solution for the driver to control the lighting in the passenger cabin and he wants a remote control via mobile app in the future. Our Solution fulfills the following requirements:
